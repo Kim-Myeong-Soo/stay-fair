@@ -1,14 +1,10 @@
 # Stay Fair!
 
-Official implementation of **"Stay Fair! Ensuring Group Fairness in Diffusion Models Across Guidance Scales"**.
+Official implementation of [**"Stay Fair! Ensuring Group Fairness in Diffusion Models Across Guidance Scales"**](https://arxiv.org/abs/2605.28036).
 
 **Authors:** Myeongsoo Kim, Eunji Kim, Minwoo Chae, Sangwoo Mo
 
-Code, evaluation scripts, and reproduction instructions will be released soon.
-
-## Paper
-
-arXiv link coming soon.
+Code will be released soon.
 
 ## Citation
 
