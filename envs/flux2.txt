@@ -1,0 +1,14 @@
+# generate/vanilla/gen_image_flux2.py  (python 3.12)
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
+diffusers @ git+https://github.com/huggingface/diffusers.git@623213d29f8323f4003ffc7d0eadf260ab5aec9d
+transformers @ git+https://github.com/huggingface/transformers.git@b98026a3e058497cb16dbc5f1ff108eda9f54ddb
+accelerate==1.14.0
+safetensors==0.8.0
+huggingface_hub==1.24.0
+sentencepiece==0.2.2
+protobuf
+numpy==2.5.1
+pillow==12.3.0
+tqdm

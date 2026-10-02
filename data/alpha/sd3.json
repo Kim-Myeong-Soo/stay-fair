@@ -1,0 +1,20 @@
+{
+  "accountant": -20.0,
+  "athlete": -250.0,
+  "author": 200.0,
+  "doctor": 75.0,
+  "engineer": -200.0,
+  "entrepreneur": -150.0,
+  "firefighter": -150.0,
+  "intern": 90.0,
+  "journalist": 75.0,
+  "painter": 90.0,
+  "poet": 40.0,
+  "professor": -125.0,
+  "salesperson": -200.0,
+  "scientist": 50.0,
+  "supervisor": -50.0,
+  "teacher": 400.0,
+  "technician": -200.0,
+  "writer": 75.0
+}

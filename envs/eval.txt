@@ -1,0 +1,12 @@
+# eval/*.py  (python 3.11)
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
+transformers==4.49.0
+ultralytics==8.4.104
+safetensors==0.8.0
+huggingface_hub==0.36.2
+pandas==3.0.5
+numpy==2.4.4
+pillow==12.2.0
+tqdm
